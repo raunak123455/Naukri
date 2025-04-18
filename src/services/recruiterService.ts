@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/recruiter";
+const API_URL = "https://naukri-x8b5.onrender.com/api/recruiter";
 
 // Register a new recruiter
 export const registerRecruiter = async (recruiterData: {
