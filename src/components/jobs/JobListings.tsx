@@ -37,7 +37,7 @@ const JobListings: React.FC = () => {
       }
 
       const response = await axios.post(
-        `http://localhost:5000/api/jobs/${jobId}/apply`,
+        `https://naukri-x8b5.onrender.com/api/jobs/${jobId}/apply`,
         {},
         {
           headers: {
