@@ -1,6 +1,6 @@
 import axios, { AxiosError } from "axios";
 
-const API_URL = "http://localhost:5000/api/auth";
+const API_URL = "https://naukri-x8b5.onrender.com/api/auth";
 
 export interface LoginCredentials {
   email: string;
