@@ -52,7 +52,7 @@ const CategoryJobs = () => {
       try {
         setLoading(true);
         const response = await axios.get(
-          `http://localhost:5000/api/trending-jobs/category/${category}`
+          `https://naukri-x8b5.onrender.com/api/trending-jobs/category/${category}`
         );
         setJobs(response.data);
         setFilteredJobs(response.data);
