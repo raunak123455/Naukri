@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/jobs";
+const API_URL = "https://naukri-x8b5.onrender.com/api/jobs";
 
 // Get all jobs
 export const getAllJobs = async () => {
