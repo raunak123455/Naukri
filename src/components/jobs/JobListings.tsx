@@ -98,7 +98,7 @@ const JobListings: React.FC = () => {
         }
 
         const response = await axios.get(
-          `http://localhost:5000/api/jobs?${params.toString()}`
+          `https://naukri-x8b5.onrender.com/api/jobs?${params.toString()}`
         );
         setJobs(response.data);
         setLoading(false);
