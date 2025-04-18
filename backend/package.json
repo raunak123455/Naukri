@@ -1,0 +1,22 @@
+{
+  "name": "naukri-clone-backend",
+  "version": "1.0.0",
+  "description": "Backend for Naukri Clone",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.8.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
