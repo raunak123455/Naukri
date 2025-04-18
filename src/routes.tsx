@@ -6,7 +6,7 @@ import LoginPage from "./pages/LoginPage";
 import CompaniesPage from "./pages/CompaniesPage";
 import ServicesPage from "./pages/ServicesPage";
 import TalentCloudPage from "./pages/TalentCloudPage";
-import RecruiterLoginPage from "./pages/RecruiterLoginPage";
+import RecruiterLoginPage from "./pages/RecruiterLogin";
 import DashboardPage from "./pages/DashboardPage";
 
 const PrivateRoute = ({ children }: { children: React.ReactNode }) => {
