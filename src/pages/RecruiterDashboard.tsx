@@ -306,12 +306,12 @@ const RecruiterDashboard = () => {
                 >
                   View Posted Jobs
                 </button>
-                <button className="w-full rounded-md border border-blue-600 bg-white px-4 py-2 text-center font-medium text-blue-600 hover:bg-blue-50">
+{/*                 <button className="w-full rounded-md border border-blue-600 bg-white px-4 py-2 text-center font-medium text-blue-600 hover:bg-blue-50">
                   View Applications
                 </button>
                 <button className="w-full rounded-md border border-blue-600 bg-white px-4 py-2 text-center font-medium text-blue-600 hover:bg-blue-50">
                   Edit Profile
-                </button>
+                </button> */}
               </div>
             </div>
           </div>
