@@ -104,10 +104,6 @@ naukri-clone/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - This project is a clone of [Naukri.com](https://www.naukri.com/)
